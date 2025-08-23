@@ -2,6 +2,7 @@
 # Parte A
 1. Base de Datos Physionet
 2. Importación y Gráfica de la Señal
+<img width="1216" height="159" alt="image" src="https://github.com/user-attachments/assets/6333b1b1-abac-44fa-8045-08e8edad4ffc" />
 3. Cálculos Estadíst6icos Descriptivos
 # Parte B
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
