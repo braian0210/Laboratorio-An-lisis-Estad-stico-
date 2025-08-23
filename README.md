@@ -97,6 +97,7 @@ Cálculo con librerias.
 # Parte B
 
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
+   
 Para la captura de la señal ECG  generada utilizando el generador de señales biológicas, se tuvo en cuenta una frecuencia de muestreo de 1000hz lo que quiere decir que por cada segundo se toman 1000 muestras. 
 Es de importancia mencionar que para la adquisición de la señal, se utilizaron dos métodos, el primer método empleado hace referencia al uso de MATLAB en donde se capturo la señal, obteniendo la gráfica de la respectiva señal y un documento en excel en formato csv con los respectivos datos referentes a la señal, y el segundo método hace referencia al uso de librerias en python para adquirir la señal por medio del daq.
 
@@ -108,7 +109,7 @@ A continuación se muestra el código utilizado para obtener la gráfica de la s
 # Parte C
 
 7. ¿ Qué es la Relación Señal Ruido (SNR)?
-8. 
+   
 SE define como la razón entre la energía de una señal y la energía de ruido expresada en decibeles (dB), y brinda información sobre el nivel de ruido de fondo presente en una señal de habla u otra.
 
 a)Ruido Gaussiano:
