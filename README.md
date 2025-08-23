@@ -6,8 +6,94 @@
 
 <img width="737" height="560" alt="image" src="https://github.com/user-attachments/assets/d88298a5-cd4c-43b9-bd20-e232a83ad403" />
 
+2.1 Gráfica en Dominio del Tiempo
+
+<img width="726" height="557" alt="image" src="https://github.com/user-attachments/assets/14e3fbff-16b1-420d-979a-5f7e71effee0" />
 
 3. Cálculos Estadíst6icos Descriptivos
+   
+   a) Media deb la señal
+
+<img width="849" height="328" alt="image" src="https://github.com/user-attachments/assets/e4dcc61c-e69a-490a-a208-1f4dee4a6271" />
+
+--- RESULTADOS DEL CÁLCULO DE LA MEDIA ---
+Suma total de todos los valores: 176.590000
+Número total de muestras: 5000
+Media de la señal: 0.035318
+
+Luego se calculó nuevamente la media de la señal mediante el uso de librerias o funciones.
+
+<img width="523" height="67" alt="image" src="https://github.com/user-attachments/assets/8ff4cc3f-7be0-4f4b-97ac-baac40d84ff2" />
+
+media de la señal:0.035318
+
+   b) Desviación Estandar
+
+   <img width="682" height="453" alt="image" src="https://github.com/user-attachments/assets/93c075b3-6004-4706-b580-ac2c927d4801" />
+
+Suma de diferencias al cuadrado: 110.156394
+Varianza: 0.022031
+Desviación estándar: 0.148429
+
+Cálculo con librerias
+
+<img width="550" height="69" alt="image" src="https://github.com/user-attachments/assets/7808999d-c404-45c3-9a46-6cc785ea2f1e" />
+
+Desviación estandar:0.148429
+
+   c) Coeficiente de variación
+
+   <img width="1073" height="312" alt="image" src="https://github.com/user-attachments/assets/3bbb2f38-1911-4617-a55f-85b86290edea" />
+
+    Coeficiente de variación: 4.202655
+ Coeficiente de variación (%): 420.27%
+
+Cálculo con librerias
+
+<img width="621" height="194" alt="image" src="https://github.com/user-attachments/assets/261d6d55-aa1f-4435-a9ef-a59d687f2dd4" />
+
+Coeficiente de variación: 420.27%
+ 
+   d) Histograma
+
+
+
+   Cálculo con librerias.
+
+<img width="497" height="142" alt="image" src="https://github.com/user-attachments/assets/a2b399de-d615-4ac7-976b-a221182640c4" />
+
+
+<img width="714" height="554" alt="image" src="https://github.com/user-attachments/assets/e9af1dbf-8a42-471f-899f-549cca2390eb" />
+
+  
+   e) Función de probabilidad
+
+
+<img width="745" height="542" alt="image" src="https://github.com/user-attachments/assets/2f3ee166-0397-4a94-8f86-b9d9342b62bf" />
+
+Cálculo con librerias
+
+<img width="799" height="298" alt="image" src="https://github.com/user-attachments/assets/61c6260c-9bae-4df9-be53-fee5241cd418" />
+
+
+<img width="682" height="563" alt="image" src="https://github.com/user-attachments/assets/9b50a839-5a9a-4414-be25-680665227090" />
+
+   
+   f) Curtosis
+
+   <img width="813" height="598" alt="image" src="https://github.com/user-attachments/assets/51c8d9a1-f85e-4dae-aab5-2be6e29304b9" />
+
+
+Valor de curtosis: 5.3752
+
+Cálculo con librerias.
+
+<img width="952" height="653" alt="image" src="https://github.com/user-attachments/assets/c83d72ae-0869-4a7a-b085-15be8cacd53a" />
+
+
+<img width="1032" height="697" alt="image" src="https://github.com/user-attachments/assets/38b5755e-d2d3-4fa7-ba98-252a529be51f" />
+
+
 # Parte B
 
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
