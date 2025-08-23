@@ -68,8 +68,8 @@ Coeficiente de variación: 420.27%
   
    e) Función de probabilidad
 
+<img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/ef184044-7af9-4dd6-b6c5-8bdf40d98369" />
 
-<img width="745" height="542" alt="image" src="https://github.com/user-attachments/assets/2f3ee166-0397-4a94-8f86-b9d9342b62bf" />
 
 Cálculo con librerias
 
