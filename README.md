@@ -50,7 +50,8 @@ Desviación estandar:0.148429
 
 Cálculo con librerias
 
-<img width="621" height="194" alt="image" src="https://github.com/user-attachments/assets/261d6d55-aa1f-4435-a9ef-a59d687f2dd4" />
+<img width="591" height="182" alt="image" src="https://github.com/user-attachments/assets/53ffb273-c6c7-4b68-8236-ffc4f4706d28" />
+
 
 Coeficiente de variación: 420.27%
  
