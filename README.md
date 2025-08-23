@@ -97,7 +97,10 @@ Cálculo con librerias.
 # Parte B
 
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
-   
+Para la captura de la señal ECG  generada utilizando el generador de señales biológicas, se tuvo en cuenta una frecuencia de muestreo de 1000hz lo que quiere decir que por cada segundo se toman 1000 muestras. 
+Es de importancia mencionar que para la adquisición de la señal, se utilizaron dos métodos, el primer método empleado hace referencia al uso de MATLAB en donde se capturo la señal, obteniendo la gráfica de la respectiva señal y un documento en excel en formato csv con los respectivos datos referentes a la señal, y el segundo método hace referencia al uso de librerias en python para adquirir la señal por medio del daq.
+
+A continuación se muestra el código utilizado para obtener la gráfica de la señal adquirida, utilizando el documento en formato csv que se obtuvo por medio de la captura de la señal en MATLAB.
 5. Cálculos Estadísticos Descriptivos
    
 6. Comparación de Resultados Obtenidos en la Parte A y Parte B
