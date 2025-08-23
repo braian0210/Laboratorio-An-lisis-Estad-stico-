@@ -4,7 +4,8 @@
 2. Importación y Gráfica de la Señal
 <img width="1216" height="159" alt="image" src="https://github.com/user-attachments/assets/6333b1b1-abac-44fa-8045-08e8edad4ffc" />
 
-<img width="736" height="540" alt="image" src="https://github.com/user-attachments/assets/c70053f5-f21f-4b1e-a5af-f373fb991433" />
+<img width="737" height="560" alt="image" src="https://github.com/user-attachments/assets/d88298a5-cd4c-43b9-bd20-e232a83ad403" />
+
 
 3. Cálculos Estadíst6icos Descriptivos
 # Parte B
