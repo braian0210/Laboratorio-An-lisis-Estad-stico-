@@ -103,6 +103,15 @@ Para la captura de la señal ECG  generada utilizando el generador de señales b
 Es de importancia mencionar que para la adquisición de la señal, se utilizaron dos métodos, el primer método empleado hace referencia al uso de MATLAB en donde se capturo la señal, obteniendo la gráfica de la respectiva señal y un documento en excel en formato csv con los respectivos datos referentes a la señal, y el segundo método hace referencia al uso de librerias en python para adquirir la señal por medio del daq.
 
 A continuación se muestra el código utilizado para obtener la gráfica de la señal adquirida, utilizando el documento en formato csv que se obtuvo por medio de la captura de la señal en MATLAB.
+
+<img width="1281" height="537" alt="image" src="https://github.com/user-attachments/assets/486c0464-0ecd-4103-8f8e-e38ee8582471" />
+
+
+Gráfica de la Señal Capturada
+
+<img width="1073" height="479" alt="image" src="https://github.com/user-attachments/assets/55af60ea-aa79-47c2-b085-16f498023b17" />
+
+
 5. Cálculos Estadísticos Descriptivos
    
 6. Comparación de Resultados Obtenidos en la Parte A y Parte B
