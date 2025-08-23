@@ -7,14 +7,15 @@
 # Parte B
 
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
-5. 
-6. Cálculos Estadísticos Descriptivos
-7. 
-8. Comparación de Resultados Obtenidos en la Parte A y Parte B
-9. 
+   
+5. Cálculos Estadísticos Descriptivos
+   
+6. Comparación de Resultados Obtenidos en la Parte A y Parte B
+   
 # Parte C
 
 7. ¿ Qué es la Relación Señal Ruido (SNR)?
+8. 
 SE define como la razón entre la energía de una señal y la energía de ruido expresada en decibeles (dB), y brinda información sobre el nivel de ruido de fondo presente en una señal de habla u otra.
 
 a)Ruido Gaussiano:
