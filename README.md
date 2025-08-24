@@ -1,7 +1,12 @@
 # Laboratorio Análisis Estadístico De La Señal
 # Parte A
 1. Base de Datos Physionet
+   La muestra tomada de la base de datos Physionet, seleccionando una señal ECG (electrocardiograma) de la duración correcta para sus posteriores cálculos estadísticos, con 200 muestras por segundo esto se evidencia en la frecuencia de muestreo de 200Hz. Este ECG se tomó de un subconjunto de electrocardiograma de diagnóstico.
+   Se utilizo la muestra 40689238 deGow, B., Pollard, T., Nathanson, LA, Johnson, A., Moody, B., Fernandes, C., Greenbaum, N., Waks, JW, Eslami, P., Carbonati, T., Chaudhari, A., Herbst, E., Moukheiber, D., Berkowitz, S., Mark, R. y Horng, S. (2023). MIMIC-IV-ECG: Subconjunto coincidente de electrocardiograma de diagnóstico (versión 1.0). FisioNet . RRID: SCR_007345. https://doi.org/10.13026/4nqg-sb35
+   
 2. Importación y Gráfica de la Señal
+Para esta parte del laboratorio se importó la señal en Python mediante los archivos .dat y .hea, y se hizo uso de la librería matplotlib para su visualización, en la gráfica se observan características típicas de un ECG como la onda P, el complejo QRS y las ondas T.
+
 <img width="1216" height="159" alt="image" src="https://github.com/user-attachments/assets/6333b1b1-abac-44fa-8045-08e8edad4ffc" />
 
 <img width="737" height="560" alt="image" src="https://github.com/user-attachments/assets/d88298a5-cd4c-43b9-bd20-e232a83ad403" />
@@ -10,9 +15,10 @@
 
 <img width="726" height="557" alt="image" src="https://github.com/user-attachments/assets/14e3fbff-16b1-420d-979a-5f7e71effee0" />
 
-3. Cálculos Estadíst6icos Descriptivos
+3. Cálculos Estadísticos Descriptivos
+   Se calcularon de dos maneras distintas (con librerías y sin ellas) la media, la desviación estándar, coeficiente de variación, histograma, función de probabilidad y curtosis, primeramente se evidencia el programa sin el uso de las librerías y continuamente se verá las mismas medidas calculadas mediante librerías predefinidas de Python. 
    
-   a) Media deb la señal
+   a) Media de la señal
 
 <img width="849" height="328" alt="image" src="https://github.com/user-attachments/assets/e4dcc61c-e69a-490a-a208-1f4dee4a6271" />
 
