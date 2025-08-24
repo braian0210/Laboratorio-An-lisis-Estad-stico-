@@ -63,6 +63,12 @@ Coeficiente de variación: 420.27%
  
    d) Histograma
 
+<img width="572" height="679" alt="Captura de pantalla 2025-08-23 181744" src="https://github.com/user-attachments/assets/27260808-7e11-4cab-8982-98c58c7c44a9" />
+<img width="1090" height="607" alt="Captura de pantalla 2025-08-23 210313" src="https://github.com/user-attachments/assets/4a7a467c-71a5-4681-a6fa-a0b2bd3bcb2b" />
+<img width="1310" height="779" alt="Captura de pantalla 2025-08-23 211428" src="https://github.com/user-attachments/assets/3d57be6d-0fd8-4923-a0aa-f55ecb5c371b" />
+<img width="1036" height="644" alt="Captura de pantalla 2025-08-23 210433" src="https://github.com/user-attachments/assets/64832e49-a5ba-4fff-a8c6-4d82ff63e089" />
+<img width="696" height="538" alt="Captura de pantalla 2025-08-23 210521" src="https://github.com/user-attachments/assets/dea73d6a-b898-4c28-8550-74274234f37a" />
+<img width="1310" height="781" alt="Captura de pantalla 2025-08-23 211509" src="https://github.com/user-attachments/assets/79c5c3ae-4f24-4dcf-b6d7-15932d64a274" />
 
 
    Cálculo con librerias.
@@ -74,6 +80,10 @@ Coeficiente de variación: 420.27%
 
   
    e) Función de probabilidad
+
+   
+<img width="699" height="650" alt="Captura de pantalla 2025-08-23 212151" src="https://github.com/user-attachments/assets/a6b7cede-c4aa-4a60-8396-89b95af00bac" />
+<img width="788" height="561" alt="Captura de pantalla 2025-08-23 212452" src="https://github.com/user-attachments/assets/c061b33a-69c9-4739-9d7b-f5a4a6042595" />
 
 <img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/ef184044-7af9-4dd6-b6c5-8bdf40d98369" />
 
