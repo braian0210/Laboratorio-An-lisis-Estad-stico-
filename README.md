@@ -19,6 +19,7 @@ Para esta parte del laboratorio se importó la señal en Python mediante los arc
    Se calcularon de dos maneras distintas (con librerías y sin ellas) la media, la desviación estándar, coeficiente de variación, histograma, función de probabilidad y curtosis, primeramente se evidencia el programa sin el uso de las librerías y continuamente se verá las mismas medidas calculadas mediante librerías predefinidas de Python. 
    
    a) Media de la señal
+ La media es un valor estadístico que representa el promedio de la señal, permitiéndonos establecer referencias de una actividad normal cardiaca para poder así detectar patrones anormales
 
 <img width="849" height="328" alt="image" src="https://github.com/user-attachments/assets/e4dcc61c-e69a-490a-a208-1f4dee4a6271" />
 
@@ -34,6 +35,7 @@ Luego se calculó nuevamente la media de la señal mediante el uso de librerias 
 media de la señal:0.035318
 
    b) Desviación Estandar
+Este valor estadístico nos indica el grado de variabilidad de la señal con respecto a la media, este nos ayuda a identificar y analizar el comportamiento del corazón, ejemplo cuando se ve un valor elevado refleja fluctuaciones pronunciadas 
 
    <img width="682" height="453" alt="image" src="https://github.com/user-attachments/assets/93c075b3-6004-4706-b580-ac2c927d4801" />
 
@@ -48,6 +50,8 @@ Cálculo con librerias
 Desviación estandar:0.148429
 
    c) Coeficiente de variación
+Este es una medida relativa ya que relaciona la desviación estándar con la media de la señal, por esto nos ayuda a comparar distintos registros cardiacos para identificar irregularidades del ritmo cardiaco.
+
 
    <img width="1073" height="312" alt="image" src="https://github.com/user-attachments/assets/3bbb2f38-1911-4617-a55f-85b86290edea" />
 
@@ -62,6 +66,8 @@ Cálculo con librerias
 Coeficiente de variación: 420.27%
  
    d) Histograma
+   Este es una representación gráfica donde se ve la distribución de los valores de la señal, nos permite visualizar los rangos más amplios y frecuentes de los datos.
+   
 
 <img width="572" height="679" alt="Captura de pantalla 2025-08-23 181744" src="https://github.com/user-attachments/assets/27260808-7e11-4cab-8982-98c58c7c44a9" />
 <img width="1090" height="607" alt="Captura de pantalla 2025-08-23 210313" src="https://github.com/user-attachments/assets/4a7a467c-71a5-4681-a6fa-a0b2bd3bcb2b" />
@@ -80,7 +86,7 @@ Coeficiente de variación: 420.27%
 
   
    e) Función de probabilidad
-
+Se usa para modelar el comportamiento de la señal y poder analizar sus tendencias permitiendo así analizar si tiene tendencias atípicas o normales.
    
 <img width="699" height="650" alt="Captura de pantalla 2025-08-23 212151" src="https://github.com/user-attachments/assets/a6b7cede-c4aa-4a60-8396-89b95af00bac" />
 <img width="788" height="561" alt="Captura de pantalla 2025-08-23 212452" src="https://github.com/user-attachments/assets/c061b33a-69c9-4739-9d7b-f5a4a6042595" />
@@ -97,6 +103,7 @@ Cálculo con librerias
 
    
    f) Curtosis
+   La curtosis nos permite describir el grado de concentración de la señal alrededor de la media. Nos ayuda a poder analizar si hay presencia de picos pronunciados o una distribución normal.
 
    <img width="813" height="598" alt="image" src="https://github.com/user-attachments/assets/51c8d9a1-f85e-4dae-aab5-2be6e29304b9" />
 
