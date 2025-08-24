@@ -200,7 +200,9 @@ G) Sintesis
    
 7. Comparación de Resultados Obtenidos en la Parte A y Parte B
    En este momento veremos las diferencias e igualdades entra la parte A (Señal sacada de physionet, y la parte B (Señal capturada en el generador), para iniciar veremos la frecuencia de muestreo ya que en los dos casos se usó una distinta la primer parte la señal fue registrada a 200 Hz mientras la de la segunda parte se capturo con una frecuencia de 1000Hz, esto se hizo con el objetivo de que la segunda parte tuviera más detalle temporal. como ya se había mencionado los datos se obtuvieron de manera distinta lo que también sería una diferencia entre señales. 
+ 
    Seguidamente compararemos las medidas estadísticas calculadas en ambas partes, empezaremos con la media en ambas partes el valor nos dio muy cercano a cero (0 ) lo que nos muestra la estabilidad en la línea base de los ECG, continuamos con la desviación estándar en este ambos nos dio la magnitud esperada sin embargo en la señal de la parte B se evidencio un valor más predecible que el de la parte A, y por último el coeficiente de variación este se mantuvo alto en ambos caso demostrando así que efectivamente un ECG es una señal oscilatoria.
+
    Para finalizar la comparación hablaremos de la curtosis y el histograma, en el caso de la curtosis en ambas partes se mostraron valores altos por los picos pronunciados aunque en la parte A se nota una mayor irregularidad por ser una señal de un paciente real, en el caso del histograma vemos que se concentran en los valores centrales además de ver una cola alargada en cada gráfica demostrando así que tiene una naturaleza periódica
  
    
