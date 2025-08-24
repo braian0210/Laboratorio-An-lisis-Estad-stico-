@@ -120,7 +120,6 @@ Cálculo con librerias.
 
 <img width="1032" height="697" alt="image" src="https://github.com/user-attachments/assets/38b5755e-d2d3-4fa7-ba98-252a529be51f" />
 
-
 # Parte B
 
 4. Gráfica de la Señal Capturada utilizando el Generador de Señales Biológicas
@@ -200,6 +199,10 @@ G) Sintesis
    
    
 7. Comparación de Resultados Obtenidos en la Parte A y Parte B
+   En este momento veremos las diferencias e igualdades entra la parte A (Señal sacada de physionet, y la parte B (Señal capturada en el generador), para iniciar veremos la frecuencia de muestreo ya que en los dos casos se usó una distinta la primer parte la señal fue registrada a 200 Hz mientras la de la segunda parte se capturo con una frecuencia de 1000Hz, esto se hizo con el objetivo de que la segunda parte tuviera más detalle temporal. como ya se había mencionado los datos se obtuvieron de manera distinta lo que también sería una diferencia entre señales. 
+   Seguidamente compararemos las medidas estadísticas calculadas en ambas partes, empezaremos con la media en ambas partes el valor nos dio muy cercano a cero (0 ) lo que nos muestra la estabilidad en la línea base de los ECG, continuamos con la desviación estándar en este ambos nos dio la magnitud esperada sin embargo en la señal de la parte B se evidencio un valor más predecible que el de la parte A, y por último el coeficiente de variación este se mantuvo alto en ambos caso demostrando así que efectivamente un ECG es una señal oscilatoria.
+   Para finalizar la comparación hablaremos de la curtosis y el histograma, en el caso de la curtosis en ambas partes se mostraron valores altos por los picos pronunciados aunque en la parte A se nota una mayor irregularidad por ser una señal de un paciente real, en el caso del histograma vemos que se concentran en los valores centrales además de ver una cola alargada en cada gráfica demostrando así que tiene una naturaleza periódica
+ 
    
 # Parte C
 
@@ -214,6 +217,8 @@ Es un tipo de señal aleatoria que tiene una función de densidad de probabilida
 Una de las características clave del ruido gaussiano es que tiene una media de cero y una varianza constante. Esto significa que el ruido se distribuye uniformemente alrededor de cero, sin sesgo hacia valores positivos o negativos. Esto hace que el ruido gaussiano sea un modelo ideal para muchos fenómenos naturales, ya que refleja con precisión la variabilidad y la aleatoriedad presentes en los datos del mundo real.
 
 En el campo del procesamiento de señales, el ruido gaussiano se utiliza a menudo como modelo de las fluctuaciones aleatorias que pueden producirse en las señales electrónicas. Al añadir ruido gaussiano a una señal, los investigadores pueden simular los efectos del ruido en el rendimiento de un sistema y desarrollar estrategias para mitigar su impacto.
+<img width="810" height="386" alt="image" src="https://github.com/user-attachments/assets/efbdc97a-319b-4462-a838-cc9d9fb728e4" />
+<img width="625" height="141" alt="image" src="https://github.com/user-attachments/assets/62f718ac-907a-4803-9d51-48d24b607100" />
 
 Contaminación la señal con ruido gaussiano y medición del SNR
 
@@ -221,9 +226,14 @@ b) Ruido Impulso:
 
 Un ruido de impulso es definido como un único ruido transitorio (o una serie de ellos) de extremadamente corta duración en el cual el nivel de presión sonora asciende rápidamente hasta un nivel pico de presión sonora, y a partir de allí desciende exponencialmente hasta el ruido ambiental. El ruido de impulso surge principalmente como resultado de una repentina liberación de energía en el medio, energía eléctrica en el caso de la ionización del aire, como en cortocircuitos, o energía química por la liberación súbita de gases, como en una descarga explosiva de un arma de fuego.
 
+<img width="773" height="487" alt="image" src="https://github.com/user-attachments/assets/5cf78127-0cfb-4872-a2eb-2efbe970c260" />
+<img width="623" height="150" alt="image" src="https://github.com/user-attachments/assets/15851932-aab8-4e40-ae8b-566545b49d20" />
+
 Contaminación la señal con ruido impulso y medición del SNR.
 
 c)Ruido Tipo Artefacto
+<img width="816" height="453" alt="image" src="https://github.com/user-attachments/assets/af01510a-f9a5-446d-8fb5-7cf60610637b" />
+<img width="1494" height="270" alt="image" src="https://github.com/user-attachments/assets/3d55e69d-5e06-4869-98d0-67a29938b92d" />
 
 Contaminación la señal con ruido tipo artefacto y medición del SNR
 9. Análisis de Resultados
