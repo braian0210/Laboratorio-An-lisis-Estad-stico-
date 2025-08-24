@@ -104,6 +104,9 @@ Cálculo con librerias
    
    f) Curtosis
    La curtosis nos permite describir el grado de concentración de la señal alrededor de la media. Nos ayuda a poder analizar si hay presencia de picos pronunciados o una distribución normal.
+   <img width="958" height="698" alt="image" src="https://github.com/user-attachments/assets/630cae51-4cd3-4cb8-a225-7b76036a2f94" />
+   <img width="841" height="743" alt="image" src="https://github.com/user-attachments/assets/3879537b-37bf-4d2a-b5b7-355b72a8805e" />
+
 
    <img width="813" height="598" alt="image" src="https://github.com/user-attachments/assets/51c8d9a1-f85e-4dae-aab5-2be6e29304b9" />
 
