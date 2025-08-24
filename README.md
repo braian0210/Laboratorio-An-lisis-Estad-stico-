@@ -107,14 +107,73 @@ A continuación se muestra el código utilizado para obtener la gráfica de la s
 <img width="1281" height="537" alt="image" src="https://github.com/user-attachments/assets/486c0464-0ecd-4103-8f8e-e38ee8582471" />
 
 
-Gráfica de la Señal Capturada
+Gráfica de la Señal Capturada en mathlab
 
 <img width="1073" height="479" alt="image" src="https://github.com/user-attachments/assets/55af60ea-aa79-47c2-b085-16f498023b17" />
 
+Para el proceso de captura de la señal por medio del daq se toma la base de la importacion "nidaqmx" y con ello poder realizar la captura usando el hardware de la daq pudiendo guardar los datos en una variable gracias a la funcion "data=task.read", y configurar la frecuencia de muestreo con la funcion "task.timing.cfg_samp_clk_timing"
 
-5. Cálculos Estadísticos Descriptivos
+<img width="914" height="433" alt="image" src="https://github.com/user-attachments/assets/92be5712-f6b8-4be0-bcfc-52761e167881" />
+
+y grafocando los datos con las funciones de mathplotlib tenemos la siguiente grafica 
+
+<img width="552" height="411" alt="image" src="https://github.com/user-attachments/assets/c6f37c41-66ac-491d-b963-acd68559b983" />
+
+posteriormente cargamos los datos en csv capturados a un google drive compartido donde empezamos a trabajarlos para sacar sus estadisticos no sin antes graficarlos ahí para asegurarnos de la ausencia de cualquier corrupcion en el archivo 
+
+<img width="908" height="264" alt="image" src="https://github.com/user-attachments/assets/000ff4fc-8075-4744-93f6-a0c0804ef5e5" />
+
+<img width="621" height="459" alt="image" src="https://github.com/user-attachments/assets/542e367c-6139-46af-ab1a-9a9000ddb387" />
+
+usamos las librerias para repetir el proceso de la parte A ahora con nuestra propia señal
+
+5. Calculos descriptivos
    
-6. Comparación de Resultados Obtenidos en la Parte A y Parte B
+A) Media.
+
+<img width="480" height="152" alt="image" src="https://github.com/user-attachments/assets/a808251b-5edf-4a3e-85c0-d625d793be50" />
+
+B) desviacion estandar
+
+<img width="536" height="164" alt="image" src="https://github.com/user-attachments/assets/568e7812-93f6-4f49-8a06-35f42d1ad759" />
+
+C) coeficiente de variacion
+
+<img width="640" height="96" alt="image" src="https://github.com/user-attachments/assets/04a89e43-eed3-4216-9380-e5fc5363041e" />
+
+D) Histograma
+
+   
+<img width="496" height="122" alt="image" src="https://github.com/user-attachments/assets/5dfdfeea-2dc0-4cb9-82d3-cf6bd603bb03" />
+
+
+<img width="592" height="452" alt="image" src="https://github.com/user-attachments/assets/93c04750-ae8f-42bd-b662-712e4da05cb9" />
+
+E) funcion de probabilidad
+
+
+<img width="773" height="212" alt="image" src="https://github.com/user-attachments/assets/c51e9142-d192-4967-9ad2-91745f077bf8" />
+
+
+<img width="576" height="459" alt="image" src="https://github.com/user-attachments/assets/68f2cc29-e411-44f9-8ddc-be36dae76421" />
+
+F) Curtosis
+
+
+<img width="547" height="101" alt="image" src="https://github.com/user-attachments/assets/a0147b3a-a8ee-4352-87be-adc1156c6c53" />
+
+G) Sintesis
+
+
+<img width="928" height="360" alt="image" src="https://github.com/user-attachments/assets/289b481a-f853-41ea-8c2e-536cfdca346f" />
+
+<img width="555" height="475" alt="image" src="https://github.com/user-attachments/assets/15d31fb2-ed84-4e89-adc9-99eaef67635f" />
+
+
+
+   
+   
+7. Comparación de Resultados Obtenidos en la Parte A y Parte B
    
 # Parte C
 
