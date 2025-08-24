@@ -238,6 +238,17 @@ c)Ruido Tipo Artefacto
 <img width="1494" height="270" alt="image" src="https://github.com/user-attachments/assets/3d55e69d-5e06-4869-98d0-67a29938b92d" />
 
 Contaminación la señal con ruido tipo artefacto y medición del SNR
+
 9. Análisis de Resultados
+
 10. Conclusiones
+    
+    En la parte A y B el análisis estadístico nos permitió comprobar que las señales generadas tanto por un paciente como por el generador comparten patrones con unas mínimas diferencias en cuanto a su regularidad y su dispersión
+
+    Este laboratorio resalta la importancia de trabajar tanto con señales humanas como señales controladas ya que la primera seria usada para el estudio de señales auténticas mientras la generadas nos permite controlar métodos usados y un más certero análisis en condiciones predecibles
+
+      
 11. Referencias
+    [1]. Gow, B., Pollard, T., Nathanson, L. A., Johnson, A., Moody, B., Fernandes, C., Greenbaum, N., Waks, J. W., Eslami, P., Carbonati, T., Chaudhari, A., Herbst, E., Moukheiber, D., Berkowitz, S., Mark, R., & Horng, S. (2023). MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset (version 1.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/4nqg-sb35
+
+    [2]. Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
