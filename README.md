@@ -138,7 +138,7 @@ Gráfica de la Señal Capturada en mathlab
 
 <img width="1073" height="479" alt="image" src="https://github.com/user-attachments/assets/55af60ea-aa79-47c2-b085-16f498023b17" />
 
-Para el proceso de captura de la señal por medio del daq se toma la base de la importacion "nidaqmx" y con ello poder realizar la captura usando el hardware de la daq pudiendo guardar los datos en una variable gracias a la funcion "data=task.read", y configurar la frecuencia de muestreo con la funcion "task.timing.cfg_samp_clk_timing"
+Para el proceso de captura de la señal por medio del daq se toma la base de la importacion "nidaqmx" y con ello poder realizar la captura usando el hardware de la daq logrando guardar los datos en una variable gracias a la funcion "data=task.read", y configurar la frecuencia de muestreo con la funcion "task.timing.cfg_samp_clk_timing"
 
 <img width="914" height="433" alt="image" src="https://github.com/user-attachments/assets/92be5712-f6b8-4be0-bcfc-52761e167881" />
 
