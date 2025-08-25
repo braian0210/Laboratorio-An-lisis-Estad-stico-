@@ -16,6 +16,7 @@ Para esta parte del laboratorio se importó la señal en Python mediante los arc
 <img width="726" height="557" alt="image" src="https://github.com/user-attachments/assets/14e3fbff-16b1-420d-979a-5f7e71effee0" />
 
 3. Cálculos Estadísticos Descriptivos
+   
    Se calcularon de dos maneras distintas (con librerías y sin ellas) la media, la desviación estándar, coeficiente de variación, histograma, función de probabilidad y curtosis, primeramente se evidencia el programa sin el uso de las librerías y continuamente se verá las mismas medidas calculadas mediante librerías predefinidas de Python. 
    
    a) Media de la señal
@@ -222,7 +223,9 @@ Es un tipo de señal aleatoria que tiene una función de densidad de probabilida
 Una de las características clave del ruido gaussiano es que tiene una media de cero y una varianza constante. Esto significa que el ruido se distribuye uniformemente alrededor de cero, sin sesgo hacia valores positivos o negativos. Esto hace que el ruido gaussiano sea un modelo ideal para muchos fenómenos naturales, ya que refleja con precisión la variabilidad y la aleatoriedad presentes en los datos del mundo real.
 
 En el campo del procesamiento de señales, el ruido gaussiano se utiliza a menudo como modelo de las fluctuaciones aleatorias que pueden producirse en las señales electrónicas. Al añadir ruido gaussiano a una señal, los investigadores pueden simular los efectos del ruido en el rendimiento de un sistema y desarrollar estrategias para mitigar su impacto.
+
 <img width="810" height="386" alt="image" src="https://github.com/user-attachments/assets/efbdc97a-319b-4462-a838-cc9d9fb728e4" />
+
 <img width="625" height="141" alt="image" src="https://github.com/user-attachments/assets/62f718ac-907a-4803-9d51-48d24b607100" />
 
 Contaminación la señal con ruido gaussiano y medición del SNR
