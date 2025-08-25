@@ -199,6 +199,9 @@ G) Sintesis
    
    
 7. Comparación de Resultados Obtenidos en la Parte A y Parte B
+
+   Análisis de Resultados
+   
    En este momento veremos las diferencias e igualdades entra la parte A (Señal sacada de physionet, y la parte B (Señal capturada en el generador), para iniciar veremos la frecuencia de muestreo ya que en los dos casos se usó una distinta la primer parte la señal fue registrada a 200 Hz mientras la de la segunda parte se capturo con una frecuencia de 1000Hz, esto se hizo con el objetivo de que la segunda parte tuviera más detalle temporal. como ya se había mencionado los datos se obtuvieron de manera distinta lo que también sería una diferencia entre señales. 
  
    Seguidamente compararemos las medidas estadísticas calculadas en ambas partes, empezaremos con la media en ambas partes el valor nos dio muy cercano a cero (0 ) lo que nos muestra la estabilidad en la línea base de los ECG, continuamos con la desviación estándar en este ambos nos dio la magnitud esperada sin embargo en la señal de la parte B se evidencio un valor más predecible que el de la parte A, y por último el coeficiente de variación este se mantuvo alto en ambos caso demostrando así que efectivamente un ECG es una señal oscilatoria.
@@ -208,7 +211,7 @@ G) Sintesis
    
 # Parte C
 
-7. ¿ Qué es la Relación Señal Ruido (SNR)?
+8. ¿ Qué es la Relación Señal Ruido (SNR)?
    
 SE define como la razón entre la energía de una señal y la energía de ruido expresada en decibeles (dB), y brinda información sobre el nivel de ruido de fondo presente en una señal de habla u otra.
 
@@ -239,16 +242,17 @@ c)Ruido Tipo Artefacto
 
 Contaminación la señal con ruido tipo artefacto y medición del SNR
 
-9. Análisis de Resultados
-
-10. Conclusiones
+09. Conclusiones
     
     En la parte A y B el análisis estadístico nos permitió comprobar que las señales generadas tanto por un paciente como por el generador comparten patrones con unas mínimas diferencias en cuanto a su regularidad y su dispersión
 
     Este laboratorio resalta la importancia de trabajar tanto con señales humanas como señales controladas ya que la primera seria usada para el estudio de señales auténticas mientras la generadas nos permite controlar métodos usados y un más certero análisis en condiciones predecibles
 
       
-11. Referencias
+10. Referencias
     [1]. Gow, B., Pollard, T., Nathanson, L. A., Johnson, A., Moody, B., Fernandes, C., Greenbaum, N., Waks, J. W., Eslami, P., Carbonati, T., Chaudhari, A., Herbst, E., Moukheiber, D., Berkowitz, S., Mark, R., & Horng, S. (2023). MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset (version 1.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/4nqg-sb35
 
     [2]. Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
+    [3]. MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset V1.0. (2023, 15 septiembre). https://physionet.org/content/mimic-iv-ecg/1.0/files/p1000/p10000032/s40689238/#files-panel
+    [4]. Ruido gaussiano. (2025, 25 febrero). Wray Castle. https://wraycastle.com/es/blogs/glossary/gaussian-noise?srsltid=AfmBOoqh1igHvyUVctINCbA7JnQFLbgd82Pktf1aZJt6aFsWKpQMKrb4
+    [5]. Vidal, D. (2021). Estudio del ruido impulsivo. www.academia.edu. https://www.academia.edu/61954308/Estudio_del_Ruido_Impulsivo
