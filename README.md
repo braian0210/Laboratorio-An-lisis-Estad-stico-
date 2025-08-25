@@ -1,10 +1,12 @@
 # Laboratorio Análisis Estadístico De La Señal
 # Parte A
 1. Base de Datos Physionet
+2. 
    La muestra tomada de la base de datos Physionet, seleccionando una señal ECG (electrocardiograma) de la duración correcta para sus posteriores cálculos estadísticos, con 200 muestras por segundo esto se evidencia en la frecuencia de muestreo de 200Hz. Este ECG se tomó de un subconjunto de electrocardiograma de diagnóstico.
    Se utilizo la muestra 40689238 deGow, B., Pollard, T., Nathanson, LA, Johnson, A., Moody, B., Fernandes, C., Greenbaum, N., Waks, JW, Eslami, P., Carbonati, T., Chaudhari, A., Herbst, E., Moukheiber, D., Berkowitz, S., Mark, R. y Horng, S. (2023). MIMIC-IV-ECG: Subconjunto coincidente de electrocardiograma de diagnóstico (versión 1.0). FisioNet . RRID: SCR_007345. https://doi.org/10.13026/4nqg-sb35
    
-2. Importación y Gráfica de la Señal
+3. Importación y Gráfica de la Señal
+4. 
 Para esta parte del laboratorio se importó la señal en Python mediante los archivos .dat y .hea, y se hizo uso de la librería matplotlib para su visualización, en la gráfica se observan características típicas de un ECG como la onda P, el complejo QRS y las ondas T.
 
 <img width="1216" height="159" alt="image" src="https://github.com/user-attachments/assets/6333b1b1-abac-44fa-8045-08e8edad4ffc" />
